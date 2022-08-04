@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Juan Perez, Angular Developer
-- 👀 I’m interested in work as Angular Developer or Python.
+- 👀 I’m interested in work as Angular or Python Developer.
 - 🌱 I’m currently learning Angular and Python.
 - 💞️ My native language is spanish, but i speak english as well, not that good yet though.
 - 📫 my email is: juandp2294@gmail.com.
